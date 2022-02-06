@@ -5,14 +5,14 @@
 4. Press ``Shift + F10`` and click ``git Bash Here``
 5. Enter ``git clone https://github.com/heyakshayhere/Hamoye_stage_B.git``
 
-#### After editing the project
+### **After editing the project**
 
 to submit your work after working 
 1. go to ``G:\My Drive\Hamoye_stage_B``
 2. Press ``Shift + F10`` and click ``git Bash Here``
 3. Enter ``git add . && git commit -m "Commit message here" && git push``
 
-#### To keep the project up to date
+### **To keep the project up to date**
 **do NOT do this if you unsubmitted changes**
 in order to keep your project up to date with others work
 1. go to ``G:\My Drive\Hamoye_stage_B``

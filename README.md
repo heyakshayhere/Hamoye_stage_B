@@ -18,3 +18,17 @@ in order to keep your project up to date with others work
 1. go to ``G:\My Drive\Hamoye_stage_B``
 2. Press ``Shift + F10`` and click ``git Bash Here``
 3. Enter ``git pull``
+
+# To-do List
+- [ ] important date day month weekday
+- [ ] most violent age group
+- [ ] most violent gender 
+- [ ] most violent city or country
+- [ ] most violent state
+- [ ] most violent guntype 
+
+- [ ] relationship status 
+
+- [ ] paricipants with relation get killed ?
+
+- [ ] lattitude longitude graph

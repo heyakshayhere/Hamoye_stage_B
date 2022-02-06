@@ -1,8 +1,7 @@
-download git from here
-https://git-scm.com/downloads
-
-download google drive from here 
-https://www.google.com/intl/en_in/drive/download/
+# Steps
+1. download [git](https://git-scm.com/downloads) 
+2. download [google drive](https://www.google.com/intl/en_in/drive/download/) 
+3. Go to ``G:\My Drive`` 
 
 create the folder in google gdrive >> click right click>>git bash here>>follow this(you can seee the commands below)
 

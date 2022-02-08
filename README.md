@@ -65,4 +65,4 @@ in order to keep your project up to date with others work
 
 **impact of gun laws**
 
-**latitude and longitude egaraph**
+**latitude and longitude graph**

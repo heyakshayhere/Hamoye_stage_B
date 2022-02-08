@@ -28,6 +28,7 @@ in order to keep your project up to date with others work
 
 ### Completed 
 
+
 **incidents per month**
 
 - incidents per month by every year 
@@ -47,13 +48,21 @@ in order to keep your project up to date with others work
 
 ### Remaining tasks 
 
+
 **Incidents per 100k by state**
+
 **number of guns used in the incidents**
 
 **prominent age of suspects**
+
 **prominent age of victims**
+
 **gender group suspects and victims**
+
 **analysis of number of guns registered or not**
+
 **rise of gun laws in different states**
-***impact of gun laws**
+
+**impact of gun laws**
+
 **latitude and longitude egaraph**

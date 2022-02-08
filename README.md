@@ -49,7 +49,7 @@ in order to keep your project up to date with others work
 ### Remaining tasks 
 
 
-**Incidents per 100k by state**
+**Incidents per 100k by city**
 
 **number of guns used in the incidents**
 

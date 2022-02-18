@@ -60,3 +60,5 @@ in order to keep your project up to date with others work
 - [x] **impact of gun laws**
 
 - [x] **latitude and longitude graph**
+
+- [x] **Trend of the violence rate per month**

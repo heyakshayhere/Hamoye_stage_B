@@ -23,11 +23,9 @@ in order to keep your project up to date with others work
 
 # To-do List
 
-#### Gun violence per year 
-***
+- [x] **Gun violence per year**
 
-
-**incidents per month**
+- [x] **incidents per month**
 
 - [x] **incidents per month by every year**
 

@@ -29,8 +29,9 @@ in order to keep your project up to date with others work
 
 **incidents per month**
 
-- [x] incidents per month by every year 
-- [x] Average Incidents per year
+- [x] **incidents per month by every year**
+
+- [x] **Average Incidents per year**
 
 - [x] **Average number of gun violence per week**
  
@@ -42,25 +43,20 @@ in order to keep your project up to date with others work
 
 - [x] **Common Areas of Gun Violence Incidents**
 
-***
+- [x] **Incidents per 100k by city**
 
-### Remaining tasks 
+- [x] **number of guns used in the incidents**
 
+- [x] **prominent age of suspects**
 
-- [ ] **Incidents per 100k by city**
+- [x] **prominent age of victims**
 
-- [ ] **number of guns used in the incidents**
+- [x] **gender group suspects and victims**
 
-- [ ] **prominent age of suspects**
+- [x] **analysis of number of guns registered or not**
 
-- [ ] **prominent age of victims**
+- [x] **rise of gun laws in different states**
 
-- [ ] **gender group suspects and victims**
+- [x] **impact of gun laws**
 
-- [ ] **analysis of number of guns registered or not**
-
-- [ ] **rise of gun laws in different states**
-
-- [ ] **impact of gun laws**
-
-- [ ] **latitude and longitude graph**
+- [x] **latitude and longitude graph**
